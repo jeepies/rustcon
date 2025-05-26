@@ -13,6 +13,7 @@
   "author": "jeepies",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^22.15.21",
     "typescript": "^5.8.3"
   }
 }
